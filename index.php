@@ -119,6 +119,6 @@ try{
   </div>
 <script src= "JS\sidebar.js"> </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="JS\dowload.js"></script>
+<script src="JS\download.js"></script>
 </body>
 </html>
