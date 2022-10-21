@@ -1,1 +1,13 @@
+div.relative {
+    position: relative;
+    right: 30px;
+    border: 3px solid #73AD21;
+    display: inline;
+  }
+
+  #festval{
+    margin: 30px 30px 30px 30px;
+    color: rgb(202, 202, 202);
+  }
+
 
