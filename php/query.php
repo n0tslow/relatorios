@@ -1,4 +1,5 @@
 <?php
-$consulta = "
+$consulta = "SELECT * 
+FROM GENERICO
 "
 ?>
