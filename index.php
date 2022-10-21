@@ -5,10 +5,10 @@ $data2   = filter_input(INPUT_GET, "data2");
 $produto = filter_input(INPUT_GET,"produto");
 $loja    = filter_input(INPUT_GET, "loja");
 #conexões do banco de dados
-define('DB_HOST'        , "192.168.1.19");
-define('DB_USER'        , "sa");
+define('DB_HOST'        , "");
+define('DB_USER'        , "");
 define('DB_PASSWORD'    , "");
-define('DB_NAME'        , "VM_LOG");
+define('DB_NAME'        , "");
 define('DB_DRIVER'      , "sqlsrv");
 #require dos arquivos php
 require_once "php\Conexao.php";
