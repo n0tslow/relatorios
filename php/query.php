@@ -1,5 +1,5 @@
 <?php
 $consulta = "SELECT * 
-FROM GENERICO
+FROM GENERICO WHERE 1=1
 "
 ?>
